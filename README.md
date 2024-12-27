@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm Mahesh Chaulagain!
+## 👋 Hi, I'm Mahesh Chaulagain!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to learn new technologies and create awesome projects. Here's a little bit about me and what I've been up to.
 
@@ -9,9 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn new 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **mobile apps** using **Flutter (Dart)** 📱
-- 💬 Ask me about **Flutter**, **React**, **Django****
+- 💬 Ask me about **Flutter**, **React**, **Django**
 - 📫 How to reach me: **maheshchaulagain8@gmail.com**
-- ⚡ Fun fact: **I'm an **IT Engineering graduate**
+- ⚡ Fun fact: I'm an **IT Engineering graduate**
 
 ## 🛠️ My Skills
 
@@ -46,10 +44,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn new 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### Data Science & Machine Learning
+### Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white)
 
 
 ## 📊 GitHub Stats
@@ -58,21 +57,18 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn new 
 
 ## 🎨 Fun Projects
 
-- **[College Voting Sys(CVS)]**: A web app made using HTML, CSS, Bootstrap and Django that helps to easily carry out the election happening in the college  [GitHub Repo]([https://github.com/your_username/project_name](https://github.com/Mahesh-Chaulagain/cvs))
+- **[College Voting Sys(CVS)]**: A web app made using HTML, CSS, Bootstrap and Django that helps to easily carry out the election happening in the college  [GitHub Repo](https://github.com/Mahesh-Chaulagain/cvs)
 - **[Udhari App]**: A mobile app to help users record and manage customer transactions using Flutter and Dart. The app supports CRUD operations, enabling users to track and store customer data efficiently.[GitHub Repo](https://github.com/Mahesh-Chaulagain/Udhari-app)
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your_linkedin](https://www.linkedin.com/in/mahesh-chaulagain-849513224/))
-- [Personal Website]([https://yourwebsite.com](https://mahesh-chaulagain.github.io/my-site/))
+- [LinkedIn](https://www.linkedin.com/in/mahesh-chaulagain-849513224/)
+- [Personal Website](https://mahesh-chaulagain.github.io/my-site/)
 
 ## 🏆 Achievements
 
 - **Currently Empty**.
 
-
 ## 🎉 Thanks for Visiting!
 
 Feel free to explore my repositories and reach out if you want to collaborate on something interesting. Let's build something amazing together!
-
-![Footer](https://via.placeholder.com/1200x200)
