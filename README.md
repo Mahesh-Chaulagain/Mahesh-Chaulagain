@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to learn new 
 - 🌱 I’m currently learning **mobile apps development** using **Flutter (Dart)** 📱
 - 💬 Ask me about **Flutter**, **React**, **Django**
 - 📫 How to reach me: **maheshchaulagain8@gmail.com**
-- ⚡ Fun fact: I'm an **IT Engineering graduate**
 
 ## 🛠️ My Skills
 
